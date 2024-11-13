@@ -1,0 +1,2114 @@
+[33mcommit 9fc5c86ec80e172d073c609d9b2c312e270f1291[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-4-26.ap-south-1.compute.internal>
+Date:   Wed Nov 13 12:37:53 2024 +0000
+
+    database
+
+[33mcommit e119210512cfc0c3df5b36595166dc3d697e81b9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-4-26.ap-south-1.compute.internal>
+Date:   Wed Nov 13 08:20:27 2024 +0000
+
+    adding database
+
+[33mcommit 673e62aa87cb0228bece8a1810b8c36e87bc7ba9[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Nov 11 16:43:09 2024 +0530
+
+    [UPDT] BASE: window.confirm script
+
+[33mcommit d7023839e6b9f6a3a71c8ae3d7a27e7581726638[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Nov 11 14:32:05 2024 +0530
+
+    [UPDT] BASE: Updated base app by replacing object delete urls kwargs
+
+[33mcommit 879e4947f9f1ad93c2a98517b36288f91278e9b6[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Nov 7 23:20:33 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Temporary cache saved filter
+
+[33mcommit d70f36f42b3a81d7a1369fc6776e6cec08ca9d95[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Nov 6 09:32:21 2024 +0530
+
+    [UPDT] BASE: More conditions for action columns in tables
+
+[33mcommit ad9dd08fdca2e513febc5c75473fd06f620b9087[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Nov 6 09:31:40 2024 +0530
+
+    [UPDT] HORILLA AUTOMATIONS: Context support title
+
+[33mcommit b985c562fc0379c100e686b82d6c653bab7773e6[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Nov 6 09:31:15 2024 +0530
+
+    [FIX] STATIC: Organisational chart design fix (#379)
+
+[33mcommit 16dc5121e8ead64f5f2197f39522c7d0a60b31dc[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 16:00:16 2024 +0530
+
+    [UPDT] HORILLA VIEWS: New table design updates
+
+[33mcommit 61a9959ea6b021f33e584dc4b72b354f6f69ca96[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 15:57:01 2024 +0530
+
+    [UPDT] HORILLA VIEWS: get_item condition update
+
+[33mcommit 2e01d65406e7cc9d61d6fb7cc27887ed0ee2687b[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 15:54:25 2024 +0530
+
+    [UPDT] HORILLA AUTOMATIONS: Width to action column
+
+[33mcommit 54a6e388a85e29b05db5f6225eaddbbddc21fe32[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 15:53:54 2024 +0530
+
+    [ADD] RECRUITMENT: Stage/recruitment managers automation mail to mapping
+
+[33mcommit 5227947ad005c9a1a36dada1a7f9d6174f06b0b6[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 15:53:29 2024 +0530
+
+    [UPDT] HORILLA AUTOMATIONS: Additional field mapping option
+
+[33mcommit 22a7b5a5b1684d70a178875979e9f948ffe82486[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 15:53:01 2024 +0530
+
+    [UPDT] HORILLA AUTOMATIONS: Excluded none values from mail_to
+
+[33mcommit ca258ab2441bbc9ce7814c3a9275afcb4f3be222[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Nov 5 10:26:38 2024 +0530
+
+    [ADD] HORILLA VIEWS: get_item method
+
+[33mcommit 312769d39d79ed285fa51b9ade55ae190db6c2ee[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Nov 4 10:20:37 2024 +0530
+
+    [FIX] BIOMETRIC: Add on delete attribute for biometricemployees model
+
+[33mcommit 0499cb6aa42065c758a642b0071a252b6e6219e7[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Nov 4 10:20:01 2024 +0530
+
+    [UPDT] HELPDESK: Employee get avatar placed in helpdesk
+
+[33mcommit c523b62db331ff7f1e61470befd0c606f5dead0c[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Nov 1 23:53:25 2024 +0530
+
+    [FIX] LEAVE: Leave style issue in my leave request page while there is no request
+
+[33mcommit 83f92add716d5a71517d87936454dcd4ecc2a812[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Nov 1 16:01:59 2024 +0530
+
+    [UPDT] ATTENDANCE: Function to inject online/offline filter function into employee filters.py file
+
+[33mcommit c830a2b49e388a78b3688095080eaafb29b6ae35[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Nov 1 16:01:07 2024 +0530
+
+    [UPDT] BASE: Replace EmployeeShiftDay instance creation
+
+[33mcommit 18bd2f10535a72dc1440f3f4516e18a35e6f8a44[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Nov 1 16:00:32 2024 +0530
+
+    [UPDT] EMPLOYEE: Optimized employee import for faster execution
+
+[33mcommit 82bc9075f3a636f376bee182f2eb0aab11a7a5f3[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 30 17:39:44 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Added cols for custom width and updated variable declaration
+
+[33mcommit 0322f996dbf471befe2ba7620fc98d0ce5881187[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 16:47:22 2024 +0530
+
+    [UPDT] ATTENDANCE: Cache all necessary data in bulk to reduce DB hits on attendance import
+
+[33mcommit 364b355191839a4083887345ff2a9099ca81592b[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 11:39:49 2024 +0530
+
+    [UPDT] HORILLA WIDGETS: Variable declaration
+
+[33mcommit c6ce18cab7a9062958112874f8c834c08db17ef4[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 11:39:24 2024 +0530
+
+    [FIX] EMPLOYEE: Update form not working issue
+
+[33mcommit b00e843707af70a48d43706aa1e3cce802c7c841[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 10:37:56 2024 +0530
+
+    [FIX] PAYROLL: Deduction form condition issue
+
+[33mcommit fe513c56f7320d36016214cd6848dc7992a3e97d[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 10:37:25 2024 +0530
+
+    [UPDT] HORILLA WODGETS: Add Django default select option template
+
+[33mcommit 725a6d5fe959fba0111598e357c6cfc01cd4aa2b[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 10:15:43 2024 +0530
+
+    [FIX] MAIL AUTOMATIONS: Form toggle script not work issue (#377)
+
+[33mcommit e76c0a182996511f03ce8057331fc74a52aaa031[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 10:14:54 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Variable declaration
+
+[33mcommit ededb273436f0c0079cfc0a1bf74ad0df3cc8c81[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 10:14:27 2024 +0530
+
+    [FIX] HORILLA VIEWS: Select all not working issue
+
+[33mcommit ec2cf6b014863902d277d7a13e39be77c0ec1096[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 29 10:14:02 2024 +0530
+
+    [FIX] HORILLA VIEWS: Initial filter not working issue
+
+[33mcommit 0b9dce61250dce94d20f131eb5d119874b8cbb37[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 28 14:05:46 2024 +0530
+
+    [FIX] PMS: Due date presenting on keyresult and feedback, key result validation
+
+[33mcommit 159d01dc0f24a93da2da2e392e47f084b88b3a3a[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 28 12:17:23 2024 +0530
+
+    [UPDT] ASSET: Asset batch number dynamic creation return statement
+
+[33mcommit 0726e90bbc28d36d571a7f053e870b58ca0dc1df[m
+Author: Horilla <support@horilla.com>
+Date:   Sun Oct 27 15:35:01 2024 +0530
+
+    [FIX] LEAVE: Individual view bug fix in group by view, and style fixes
+
+[33mcommit 6e2aa084e8eeca98c836dfcc3c77bd5359a68ac1[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 25 15:34:12 2024 +0530
+
+    [UPDT] BASE: Holiday import by adding csv file import option
+
+[33mcommit b48ebf7fe4f126b14da02ec7b7c84b9b01557814[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 25 15:31:33 2024 +0530
+
+    [UPDT] HORILLA WIDGETS: Horilla form select field widgets condition
+
+[33mcommit 63e9cd78b19c1deaad9280381191cfcb11848e40[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 24 14:57:01 2024 +0530
+
+    [UPDT] PMS: Added new details in feedback list and feedback details
+
+[33mcommit 05d4830f253cfe32446ace167ccc1e77f6c29cf0[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 23 12:58:40 2024 +0530
+
+    [FIX] LEAVE: Style fix by adding truncatchars in my leave request table view
+
+[33mcommit a935d58f44d4675a16351fc46e35e6f98b2687ea[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 23 12:55:42 2024 +0530
+
+    [ADD] OFFBOARDING: Added notification for managers selection and updated the permission for task manager
+
+[33mcommit 27aa2eba56f91c29994eef02ba866c353f9f6e74[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 22 11:18:43 2024 +0530
+
+    [FIX] HORILLA AUTOMATIONS: Create mail automation issue fix
+
+[33mcommit 992de654e5ecc29950805d2824f7c9bd79a0fbc3[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 22 11:18:01 2024 +0530
+
+    [UPDT] BASE: Updated get_horilla_model_class call from base models
+
+[33mcommit 2c5f3e300f9fee8b1cdc1152f544f3034058ae16[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 21 15:38:25 2024 +0530
+
+    [UPDT] ATTENDANCE: Replace hx-target of update-worked-hours url in attendance request form
+
+[33mcommit 60d49b8cef4070304995277874637f01965bcb8c[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 21 10:12:32 2024 +0530
+
+    [ADD] HORILLA API: Added attendance request validation on view
+
+[33mcommit 74faece8c8717921bc765aad94e754476650d0ff[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 21 10:10:42 2024 +0530
+
+    [FIX] LEAVE: In my leave request view section hovering issue fixes
+
+[33mcommit bd569e24eae363c2a28043cea90cb28c31e679fe[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 21 10:10:20 2024 +0530
+
+    [ADD] HELPDESK: Added delete section for the uploaded documents in the tickets and the count of the selected files above the icon in the chat section
+
+[33mcommit 0273a2a4bb4c6c12fcfd81e40bcd5eab0b76cb8b[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 21 10:09:01 2024 +0530
+
+    [UPDT] BASE: Employees disciplinary action type delete protection if is used in disciplinary action
+
+[33mcommit c306e4425788fa213f50cf92e5e266cb58e49f2c[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Oct 19 16:08:11 2024 +0530
+
+    [RMV] HELPDESK: Duplicate methods.py file in helpdesk templates
+
+[33mcommit 29f6939c59f7aaaab384da7e7e6e7e37c6739335[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Oct 19 16:07:10 2024 +0530
+
+    [FIX] HORILLA VIEWS: Duplicate table issue
+
+[33mcommit 7ec08d17845b10df25a7a1a5824524bfed2f21f0[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Oct 19 16:06:50 2024 +0530
+
+    [FIX] HORILLA API: Removed the manager permission check on user level api
+
+[33mcommit 9b162d90b9f807c9d928bf8a86d034aa1f32054f[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Oct 19 16:06:08 2024 +0530
+
+    [ADD] PMS: Pagination for employee objectives and employee keyresult
+
+[33mcommit 93d3a55ae95f8b0f21866152cda35d2f5dc72dab[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 16:04:46 2024 +0530
+
+    [FIX] ATTENDANCE: -ve worked hour issue
+
+[33mcommit 9faf3d32eb212a1efb4b1f87103fcfa3774caf2d[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 16:04:11 2024 +0530
+
+    [ADD] EMPLOYEE: Added new html section from the index page
+
+[33mcommit cd0ffb6f89f0a15c89d4cb4ee5884b9c54cb42c0[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 16:03:48 2024 +0530
+
+    [ADD] BASE: Added new html section from the index page
+
+[33mcommit a2c5dbccd30d40aec6e9aa4909ff8a0be7c47253[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 16:03:31 2024 +0530
+
+    [UPDT] TEMPLATES: Updated the index page by splitting the navbar
+
+[33mcommit 1e3c8e271c563a1d4804261e2245a2a96a4bfa2a[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 16:02:52 2024 +0530
+
+    [FIX] BASE: Announcement image style issue
+
+[33mcommit 0a0c0e1911cfeb5e2caa837613de41e5210b373e[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 16:02:17 2024 +0530
+
+    [UPDT] STATIC: Style updations for icons
+
+[33mcommit a2af7e11d723be6cf57f0d4186cabacc7f7639b7[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 15:34:04 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Action button accessibility
+
+[33mcommit f78a3b5cbeb73b6b1f418fc2530609ac023da49c[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 10:48:11 2024 +0530
+
+    [UPDT] PAYROLL: Rmove unused oh-modals and resolved payslip create function date period issues
+
+[33mcommit 5cae2940e3e4d153ee6567e28db4b331eea2ab8e[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 09:26:21 2024 +0530
+
+    [UPDT] HORILLA API: Changed value of name attribute in url path of horilla_api
+
+[33mcommit 5c126892eab7559b7a8f55d8c4af5244a166277d[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 18 09:16:31 2024 +0530
+
+    [FIX] HORILLA API: Changed the action type api workflow from base to employee module
+
+[33mcommit 22e48fc7a386edbe7c0412844c75f567893e4043[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 17:36:05 2024 +0530
+
+    [UPDT] EMPLOYEE: Subordinate function added on employee model
+
+[33mcommit b965f84ef5997c55301faebe740c1519adcc512f[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 17:35:37 2024 +0530
+
+    [FIX] HORILLA API: Clock out api fix
+
+[33mcommit 7261a8d09111a357ac8ec622d10ea9916145dd77[m
+Merge: cdc8b4ba 6a6f180d
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 16:35:24 2024 +0530
+
+    Merge branch 'master' of https://github.com/horilla-opensource/horilla
+
+[33mcommit cdc8b4ba59ec27652c0943b9a809f4013a04fca0[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 16:35:02 2024 +0530
+
+    [UPDT] RECRUITMENT: Updated recruitment with the 2 new stages for newly created recruitment for candidates from application and direct creation
+
+[33mcommit 4bbb64f98578716833cd18d9fd14effced9bc6dc[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 16:34:20 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Reload id for button
+
+[33mcommit 6a6f180ddd6872155ab9039a30c954a1c5eb518a[m
+Author: Horilla <131998600+horilla-opensource@users.noreply.github.com>
+Date:   Thu Oct 17 16:14:02 2024 +0530
+
+    [UPDT] Add responses package to requirements.txt
+
+[33mcommit 99efcff6a59c49931c9eb38bb82f60b0bf6e6a1b[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 12:17:07 2024 +0530
+
+    [FIX] LEAVE: Card style fix in leave type view
+
+[33mcommit cb85dcb396d0fd6ccee6cfc4af7a6abfb10e9344[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 10:46:06 2024 +0530
+
+    [UPDT] LOAD DATA: Postgresql database support
+
+[33mcommit faebf8a24b821d358c1438cef333c14ee0436e7f[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 10:42:38 2024 +0530
+
+    [FIX] EMPLOYEE : Fixed the animation issue while updating the profile image
+
+[33mcommit b3ae88cca820c5adb5b2f6555c5ed7bdc037561d[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 10:42:18 2024 +0530
+
+    [UPDT] BASE: Replace return class for object delete function
+
+[33mcommit 64f5e749690ccd2bf139a3fb30d90bfe165d705c[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 10:39:51 2024 +0530
+
+    [FIX] ATTENDANCE: Attendance night shift timer conflicts
+
+[33mcommit e233c180fe4f04de37441f3886f000aac0a6c0df[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 17 10:38:39 2024 +0530
+
+    [UPDT] ASSET: Updated asset import method by adding csv file import
+
+[33mcommit dece7edebc895dd2789fb35b63e208086023f40c[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 16 12:23:59 2024 +0530
+
+    [FIX] HORILLA API: Remove clean method and added validation on serializer for work type requests
+
+[33mcommit 14e4b30c50a3ca3ac0384d9f7e923129ebf57cae[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 16 00:23:55 2024 +0530
+
+    [UPDT] OFFBOARDING: User level permission updates
+
+[33mcommit 9a349c7aa05bd360d1f0a9e8077c959ff99f410e[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 17:06:39 2024 +0530
+
+    [UPDT] HORILLA API: Clock out method update
+
+[33mcommit 5d534efc07086cbe8131abf37b57546cd9c2ce2f[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 14:41:40 2024 +0530
+
+    [UPDT] HORILLA API: Employee bank details user permission
+
+[33mcommit 685cc21fbf592412d29583da7e2ec7eb0557a82e[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 14:16:33 2024 +0530
+
+    [UPDT] ATTENDANCE: Attendance activity detail view avatar
+
+[33mcommit 0affcb7390b25347bb5fd1967d565d14b7779c64[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 14:15:48 2024 +0530
+
+    [UPDT] PAYROLL: Asset fine HTML filter
+
+[33mcommit f4378054d9a36b3bfabf9b6f13aabcf4712cec0a[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 14:15:20 2024 +0530
+
+    [UPDT] ASSET: Replace asset import form load to HTMX
+
+[33mcommit e0fe83377f195cfde2222631d044c725fa6ca073[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 14:14:48 2024 +0530
+
+    [UPDT] BASE: Updated load data function by adding additional json file to load data
+
+[33mcommit a6912a693f123398b2db1df04bc87533ebae8a80[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 15 09:59:38 2024 +0530
+
+    [FIX] HORILLA API: Employee api permission fix
+
+[33mcommit 053eba0b865db5b8671f35c99ae5ef8416c92d55[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 14 16:10:31 2024 +0530
+
+    [UPDT] ATTENDANCE: Add additional fields and values to attendance detailed view
+
+[33mcommit 477adf932db778446db10f7134b6bd544c1c3dc1[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 14 11:52:33 2024 +0530
+
+    [UPDT] HORILLA API: Add new field in employee api
+
+[33mcommit 7d3e8960814a713f6121e9d8df4bc67c5eb623f8[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 14 11:41:36 2024 +0530
+
+    [UPDT] HORILLA WIDGETS: Add disable option if widget value does not exist
+
+[33mcommit 5cf16398a9f4d35914638b38afed8fb2ce7825ba[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 14 11:26:31 2024 +0530
+
+    [UPDT] ATTENDANCE: Add htmx in attendance request form fields
+
+[33mcommit 7ed0a6e9f189d8e1c4b477d36071d5ccac87032f[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 11 16:40:19 2024 +0530
+
+    [UPDT] HORILLA API: Additional fields tag and tag id
+
+[33mcommit f616c32be476a2c7de8d8f35b6d0efabacba8420[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 11 12:29:26 2024 +0530
+
+    [UPDT] PMS: tickettype button permission
+
+[33mcommit dedfa0c4ccab1194a5500819485ee269aae504fe[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 11 12:28:26 2024 +0530
+
+    [UPDT] HELPDESK: Updated the ticket detailed, list, card views and its functions
+
+[33mcommit eacd64102b8afc098d1ca8ef41e05fb953645805[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 11 12:27:55 2024 +0530
+
+    [UPDT] EMPLOYEE: Employeee select page is added in employee app
+
+[33mcommit c0dc07dfcf8b221e428db8b3dbd3b2542a3a070e[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 11 12:26:13 2024 +0530
+
+    [FIX] HELPDESK: Permission for department manager added
+
+[33mcommit 203b61f82747d41806dfa6bc5a4742eb3b7a7ff9[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 11 12:25:58 2024 +0530
+
+    [UPDT] ATTENDANCE: Add hx for worked hours field in attendance form
+
+[33mcommit d1b28d39b4b18265411b69132d4d31c830fb6d83[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 10 16:30:22 2024 +0530
+
+    [FIX] HORILLA API: Remove raise_exception from attendance api views
+
+[33mcommit 3db214987d22febdfc89963090db642e7eeb709c[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 10 16:20:23 2024 +0530
+
+    [FIX] HORILLA API: TypeError in decorator
+
+[33mcommit a9c6cf5a4ee4baba158fe961d1f420b7216bcf1a[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 10 15:45:44 2024 +0530
+
+    Pylint updates
+
+[33mcommit dcc667e99dcbba42994256a5c2999c8dd190b2fa[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 10 15:45:30 2024 +0530
+
+    [UPDT] REQUIREMENTS: Dependencies for Horilla API
+
+[33mcommit 053964edd9b3e33933bf62630bbe06df2efcc837[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 10 15:41:46 2024 +0530
+
+    [ADD] HORILLA API: Add Horilla API into master code base
+
+[33mcommit f42ac1a39113aa5585f4e5f6f57ca23b0eb3cbdd[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 10 11:40:53 2024 +0530
+
+    [UPDT] GENERAL: get_avatar method updates
+
+[33mcommit c884bc953e988754a2887685f2366d3e52ca30f6[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 9 15:13:40 2024 +0530
+
+    [UPDT] HORILLA VIEWS: if instance condition in html
+
+[33mcommit ffc9a1d708d62420e71ae4f821e1764c1c82578b[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Oct 9 15:13:05 2024 +0530
+
+    [FIX] ASSET : Asset category creation and filter,search issue fixes in asset view
+
+[33mcommit 90da9016c5dc8848cab900a8587598df784efa1b[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 8 17:49:49 2024 +0530
+
+    [UPDT] EMPLOYEE : Updated the employee work info form with new fields and the active tab issue while updating an employee fixed (#364)
+
+[33mcommit 48c0bcd307770ac68068f56f4aeca37b767d64fd[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 8 17:48:55 2024 +0530
+
+    [FIX] BASE: Warning message and fix while changing the date and time formats
+
+[33mcommit efb82cb8b7b268886bdca0b58f30fa3f40ea48d0[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 8 09:47:02 2024 +0530
+
+    [FIX] HORILLA VIEWS: Width issue for first cell
+
+[33mcommit 386e3395d714e7fded57f5aef31b4c6a77e987e7[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 8 09:46:32 2024 +0530
+
+    [FIX] ASSET: Fix to remove the asset unwanted filter tags
+
+[33mcommit 9e4fd93f2e0c1a3c564eb9195d69b934cf91bb3c[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Oct 7 21:12:36 2024 +0530
+
+    [ADD] ATTENDANCE : German language date format updataion and new method added
+
+[33mcommit 994e786a4a79d82cd4effb7cb820e24c6a06b351[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 4 22:24:19 2024 +0530
+
+    [FIX] PAYROLL: Fixed grosspay calculation not taking update compensation
+
+[33mcommit 282d84f8edd34f5fe096810c9c2756f870456bc2[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 4 17:24:45 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Load initial form values
+
+[33mcommit a9ce11d8c2909e0c0f91b5a0802bf04718405091[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 4 17:22:59 2024 +0530
+
+    [UPDT] ATTENDANCE: Over time attendance listing (#31)
+
+[33mcommit 028c282ec8db6cdcf39c5060d0876ef6a517d666[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 4 17:22:15 2024 +0530
+
+    [UPDT] BASE: Currency symbol prefix and postfix
+
+[33mcommit d6717f93d8ff27bee0e5c389072795ac70ab2579[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Oct 4 17:20:20 2024 +0530
+
+    [FIX] BASE : Employee workinfo chart calculation mistake fixes
+
+[33mcommit 78ace851909c19a4960337425900e1a5a945c883[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 3 16:30:21 2024 +0530
+
+    [UPDT] Test Database
+
+[33mcommit 9df5e1554f3375f66303e5dca713093f70240f06[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 3 16:25:31 2024 +0530
+
+    [FIX] ASSET: Combined filter and view fix for asset and category
+
+[33mcommit afdcec65d0f38016bebecfbc47f36ddd8c81bf61[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 3 15:05:30 2024 +0530
+
+    [FIX] PAYROLL: Fixed payslip grosspay caliculation issue and hourly and daily wage type payslip generation (#356)
+
+[33mcommit 12f7399edcdda369de4113b567d4f371f8281a4a[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 3 15:05:08 2024 +0530
+
+    [RMV] Unwanted files
+
+[33mcommit 6c505236b5b860759c2439e0d4544e6549f66729[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Oct 3 15:04:43 2024 +0530
+
+    [FIX] LEAVE: Restrict leave for superuser fix
+
+[33mcommit eede3b09c3f72b2ffa8c9c40f1a4ef721391cb0c[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Oct 1 11:18:38 2024 +0530
+
+    [FIX] PAYROLL: Missing hidden field in the one time deduction form (#356)
+
+[33mcommit bf63fa354273bee32198d2047f2907409012a083[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Sep 30 18:44:36 2024 +0530
+
+    [UPDT] PMS: Keyresult answer view in feedback detailed view
+
+[33mcommit 05303a98cb15364bbcdfe0a0227d279f8c316116[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Sep 30 14:32:57 2024 +0530
+
+    [UPDT] ATTENDANCE: Attendance activity import method
+
+[33mcommit b33fe24e3843d52118d231f3f8512ee59f3d48c8[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Sep 30 14:31:57 2024 +0530
+
+    [UPDT] BASE: Additional time formats
+
+[33mcommit 40440eff0ec1dd74a5f44003f9eb0ab198b9eeff[m
+Author: Horilla <support@horilla.com>
+Date:   Mon Sep 30 14:31:06 2024 +0530
+
+    [ADD] ATTENDANCE: Auto approve overtime
+
+[33mcommit 38b3f1e1b6538be1fa442a936d90e72e0e80ae84[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 16:23:21 2024 +0530
+
+    [UPDT] PAYROLL: Replace yes_no filter tags
+
+[33mcommit f78e36784eb87158b98c3146e3dff7fd018e67a2[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 16:22:10 2024 +0530
+
+    [FIX] HELPDESK: Typo in filter function
+
+[33mcommit da41e3baa7c81e13d68d609edf82f4767b387283[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 16:21:27 2024 +0530
+
+    [FIX] PMS: Feedback search and permissions in list view
+
+[33mcommit 5e819c442190307608595046df19e3460720d839[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 16:20:56 2024 +0530
+
+    [UPDT] RECRUITMENT: Remove unwanted yes_no filter tag loading
+
+[33mcommit 62e8994b6c81fea9a82c1f4df041ece4cde29bf6[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 16:19:37 2024 +0530
+
+    [UPDT] PAYROLL: Replace yes_no filter tag into horillafilters tag
+
+[33mcommit f034486ae83842a3486138476940557c3b0abe99[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 12:21:40 2024 +0530
+
+    [UPDT] ATTENDANCE: yes_no filter tag into horillafilters tag
+
+[33mcommit 5c077d09ee5275dace6f5fb3ea2ff101e1db302a[m
+Author: Horilla <support@horilla.com>
+Date:   Fri Sep 27 12:21:06 2024 +0530
+
+    [UPDT] PAYROLL: Asset fine function return replaced with httpresponse
+
+[33mcommit 1e4907a3299b9dd10d6e8078d198f046243fef74[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:50:49 2024 +0530
+
+    [FIX] PMS: Feedback create and update form issue
+
+[33mcommit 05740fa689e3a6c32cf9b1c8539aa8f5f97986be[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:50:10 2024 +0530
+
+    [UPDT] LEAVE: Adding Holiday and Company Leave sub menu for normal employees
+
+[33mcommit 6e07544b4af8e18a8f3d134dec1d0b089c431255[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:18:42 2024 +0530
+
+    [FIX] ATTENDANCE: Style breaking fixes in detail view while changing the language
+
+[33mcommit ad2afcb9169360ebabee3b72fed94b1cc9fca1a2[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:07:54 2024 +0530
+
+    [UPDT] LEAVE : Leave clash updation by excluding the cancelled or rejected leaves
+
+[33mcommit 75f34efdc81a6870038345478f552c8a2de2ff2d[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:07:23 2024 +0530
+
+    [UPDT] EMPLOYEE: Change hx-target for document section in employee
+
+[33mcommit 0fa55b08353c021449a99e6223f579c85bf1926d[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:06:19 2024 +0530
+
+    [UPDT] EMPLOYEE: Changed employee organisation chart orientation and added search option in it
+
+[33mcommit dec7f465e78e1e9cfccec0666e3801bc32113dfb[m
+Author: Horilla <support@horilla.com>
+Date:   Thu Sep 26 15:04:56 2024 +0530
+
+    [UPDT] LOAD DATA: Remove grace_time_id from base_data.json file and leave_type_id from payroll_data.json file
+
+[33mcommit 080df5b8b229ace86fb1a869074255e487bd243e[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 17:01:00 2024 +0530
+
+    [FIX] ASSET: Permission to view asset history
+
+[33mcommit fecb7d948788ae95b5ee6fbc4014c6dd27821372[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 13:08:38 2024 +0530
+
+    [UPDT] Test Database
+
+[33mcommit 4eca28d493b3e3a59bbcac53bd03cb4132dbec8e[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 12:47:00 2024 +0530
+
+    [UPDT] ACCESSIBILITY: Restrict all feature in employee restriction feature
+
+[33mcommit 48c4641be9aa1070632d4f187c269d60af1604da[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 10:35:56 2024 +0530
+
+    [UPDT] PMS: Feedback overview empty message
+
+[33mcommit 9df0d36dd83ca0a0867114bfd2372776b69e99de[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 10:34:53 2024 +0530
+
+    [RMV] BASE: Removed unwanted print statement and changed the function name
+
+[33mcommit b66c1892ae553fc6ca7bf6b34d28801755c929bb[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 10:34:17 2024 +0530
+
+    [FIX] EMPLOYEE: Fixed admin page user has employee_get error in login
+
+[33mcommit 8f2c5da410220e2eb6bcfebb03f3030ff9885676[m
+Author: Horilla <support@horilla.com>
+Date:   Wed Sep 25 10:33:37 2024 +0530
+
+    [FIX] LEAVE: Attendance field in compensatory updated as required field
+
+[33mcommit c3da364bdf6adf250585261c59d6b2d477e30763[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 16:45:56 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Modal close updates
+
+[33mcommit 7054f60eb4b2c7c00346463c8ea9b5a5be12bd24[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 16:45:03 2024 +0530
+
+    [ADD] EMPLOYEE: New fields and updation in filter form of employee view
+
+[33mcommit b3d6622317a590093ae1877949e9301f84f339af[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 16:44:33 2024 +0530
+
+    [UPDT] ONBOARDING: Setting the field if employee is created from the portal
+
+[33mcommit c6ef7834966bfe7b98302cea9352c89b6264c63d[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 16:43:12 2024 +0530
+
+    [UPDT] RECRUITMENT: Setting the field if employee is created by direct conversion
+
+[33mcommit d628ec3db35725c24f81bb5253c5b56682e65b71[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 16:42:35 2024 +0530
+
+    [UPDT] HORILLA AUDIT: Exclusion of new fields from the history section
+
+[33mcommit 48863ea2e274f84f78b10090456452b4d6428923[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 16:38:27 2024 +0530
+
+    [UPDT] BASE: Required false constraint in forms
+
+[33mcommit 8c7664e2cba9c1cef0c3178cb3b24e405fccada0[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 14:25:59 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Generic hx-confirm method
+
+[33mcommit ae3a9ace5113813e867908bef14ab84952c7238c[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 14:25:29 2024 +0530
+
+    [UPDT] PAYROLL: Allowance calculation method
+
+[33mcommit 07da2bac20df0e0d02d65d0fb401d29beb2208ce[m
+Author: Horilla <support@horilla.com>
+Date:   Tue Sep 24 14:24:47 2024 +0530
+
+    [FIX] AUTOMATIONS: Static not loading in mail automation
+
+[33mcommit 06b2314d506253af7fce54381c674421a7364013[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 17:14:57 2024 +0530
+
+    [FIX] PMS: Added own records in employee queryset
+
+[33mcommit 153243004cb828f20c145f203233c561b5c63726[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 17:13:54 2024 +0530
+
+    [UPDT] BASE : Company leave label updation in the creation and updation form
+
+[33mcommit c769a432f3400156868ca019434d6ae88038c41c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 17:13:27 2024 +0530
+
+    [UPDT] PMS : Meeting form updation filter widjets on update form and helptext
+
+[33mcommit 5daad6ff50a975dce3c531f736b4b2cac8c07cac[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 17:12:08 2024 +0530
+
+    [UPDT] RECRUITMENT : Interview section sortable option and table view updation
+
+[33mcommit 84e37aef0654ff12d384ab0193855adff6d72304[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 17:11:02 2024 +0530
+
+    [UPDT] BASE: Base template common form html
+
+[33mcommit 5e8b8d3a003b8db7120764889ca6b29ab8a09b9e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 17:10:12 2024 +0530
+
+    [UPDT] LEAVE: Assign leave function updated by adding html for display the imported rows and error rows
+
+[33mcommit 7507821b73e888a22601930c31b4bb3ff84bf769[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 12:46:05 2024 +0530
+
+    [FIX] PAYROLL: Payroll dashboard contract end modal not showing
+
+[33mcommit 64c79f1366d2d8868d00a39e4ea2ce3d963d9dd3[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 12:45:39 2024 +0530
+
+    [FIX] ATTENDANCE: Bulk create form employee queryset updates, is_holiday is excluded from form
+
+[33mcommit 9d48e1097edd4a9ea8253b8338d88615772e8ba6[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 12:45:09 2024 +0530
+
+    [UPDT] EMPLOYEE: Updated translations tag on organisation chart
+
+[33mcommit 0b031c35f735a32436e17ffe0b9a4bb9cd937db8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 12:44:28 2024 +0530
+
+    [UPDT] TEMPLATE: Animation template of database loading
+
+[33mcommit 87fd93e0695b75f2f9d8a4222d8d0d161a90850e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 23 12:43:57 2024 +0530
+
+    [UPDT] LOAD DATA: Updated load data json files
+
+[33mcommit 5f8f50041029f4ac08db1b29b020ed2075bc5aeb[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:52:53 2024 +0530
+
+    [UPDT] PAYROLL: Change input field id
+
+[33mcommit 870d4e007921eda0dc44f720b69eabc54884ff25[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:51:36 2024 +0530
+
+    [UPDT] BASE: Grace time is active button added in shift view
+
+[33mcommit 64179c69e2be713b103199d6bbf634c292dfb67f[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:51:00 2024 +0530
+
+    [UPDT] ATTENDANCE: New option for grace time
+
+[33mcommit a4e651f1735f710e3e8837f46c2bf1528f16e08b[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:49:11 2024 +0530
+
+    [UPDT] TEMPLATES: Permission for editing employee info
+
+[33mcommit 547e22eb80dc8ed24a08951dec32c8b03387bec6[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:48:40 2024 +0530
+
+    [UPDT] BASE: Accessibility conditions added for different charts in main dashboard
+
+[33mcommit b95d23981bbe99aee7490ce188102b863cb3a5b5[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:47:14 2024 +0530
+
+    [FIX] ASSET: Asset rejection issue from dashboard (#348)
+
+[33mcommit 3c68141e88e4cf8a1d69064813d3f1aa4e286c63[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:16:52 2024 +0530
+
+    [ADD] LOAD DATA: New app for loading demo data to a blank database on user preference
+
+[33mcommit 0ef7e034f23c6d4afe72c31599f1909ad4a5bc13[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:15:01 2024 +0530
+
+    [ADD] TEMPLATES: Add new animation for current day birthday employees
+
+[33mcommit 2909a380606866c404a94efb31deb64cba4a3d71[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:14:12 2024 +0530
+
+    [FIX] HORILLA VIEWS: Variable scope for pk
+
+[33mcommit aa2342b847d179355c6f3e220b85a39000a78007[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:13:12 2024 +0530
+
+    [ADD] LEAVE: New option to mention the leave type while creating a leave restriction
+
+[33mcommit fe6c07bcf73dca36828686c126507c3b2526f918[m
+Author: Horilla <support@horilla.com>
+Date:   Sat Sep 21 15:12:42 2024 +0530
+
+    [FIX] ASSET: Asset delete issue (#347)
+
+[33mcommit 8896eb1f6f9262f79d4f5a0ecc88b5ad7fa440fe[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Sep 21 12:48:04 2024 +0530
+
+    [UPDT] Test Database
+
+[33mcommit 10995ac823066badb23b17b786886a41d55fdc25[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:39:58 2024 +0530
+
+    [UPDT] RECRUITMENT: Add reply and from email to Email
+
+[33mcommit 61e26ae34e74d638f3582a6939e288b120a5d7db[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:39:40 2024 +0530
+
+    [UPDT] PAYROLL: Add reply and from email to Email
+
+[33mcommit 029b5823fcc7e25678e21f2058d685f9e8102d75[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:39:16 2024 +0530
+
+    [UPDT] ONBOARDING: Add reply and from email to Email
+
+[33mcommit 085441fa49396a4b7bdef0118ef5a67675b5f471[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:39:04 2024 +0530
+
+    [UPDT] LEAVE: Add reply and from email to Email
+
+[33mcommit 229621f2ba5d565c32e0666d5e07d3bd69cec4d8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:38:46 2024 +0530
+
+    [UPDT] HORILLA AUTOMATIONS: Add reply and from email to Email
+
+[33mcommit f18a360ca3d87ac8b3147c41b0bc338b0532ccbc[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:38:27 2024 +0530
+
+    [UPDT] HELPDESK: Add reply and from email to Email
+
+[33mcommit 18a5d5758420fc9904d45b8ec2f570c6869ce714[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:38:11 2024 +0530
+
+    [UPDT] EMPLOYEE: Add reply and from email to Email
+
+[33mcommit a80a592e5c8017b8a08a16e1c3f5dcebe4b7e8c2[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 20 15:37:55 2024 +0530
+
+    [UPDT] BASE: Add reply and from email to Email
+
+[33mcommit d98ac4bbd92208af6c46e4b16ad4b6465235fb25[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 16:23:35 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Image url and data-action for previous object
+
+[33mcommit 7cc237dabab244964a9c2e83ee311a73971e58f6[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 16:22:09 2024 +0530
+
+    [FIX] PAYROLL: Fixed loan and advance salary edit validation issue (#344)
+
+[33mcommit f758d5f5abd1e3ace09b384d3419e868ad7a94ae[m[33m ([m[1;33mtag: [m[1;33m1.2.1[m[33m)[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 10:33:02 2024 +0530
+
+    [UPDT] PMS: Feedback overview
+
+[33mcommit d479dee6eae60d20fa9a75120801a7a0985c3e30[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 10:32:49 2024 +0530
+
+    [UPDT] ACCESSIBILITY: Add accessibility to diff app
+
+[33mcommit 2f1a7f9cb7c126b7e57ddad28310d9b70046fa3b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 10:29:18 2024 +0530
+
+    [UPDT] ACCESSIBILITY: Bulk update signals for reset cache
+
+[33mcommit 2e8c9db47aba279aedeeda9f6aa26baf2ba76816[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 10:28:11 2024 +0530
+
+    [FIX] ACCESSIBILITY: Typo in naming
+
+[33mcommit 6aa51d2aa45f7ff83ff5828f2547470c8dcf44ea[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 10:27:12 2024 +0530
+
+    [UPDT] ACCESSIBILITY: Accessibility template tag
+
+[33mcommit b65fbe865860d1ed9c05ec6077cdbaa3b2fdb05d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 19 10:26:41 2024 +0530
+
+    [ADD] PMS: Feedback overview
+
+[33mcommit d34fdcb846777e627355f52be0d97bdd4cb40ef0[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:51:44 2024 +0530
+
+    [ADD] ACCESSIBILITY: Add employee accessibility app for handling employees permissions and accessibility
+
+[33mcommit 332e970870936fb52eb9808f1bd80d66489b3827[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:49:39 2024 +0530
+
+    [FIX] RECRUITMENT: Fixed recruitment pipeline rating issue
+
+[33mcommit a63ffc204d868bb1a0667f47774fcfa6d1f756be[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:49:21 2024 +0530
+
+    [UPDT] BASE: Add additional fields to sign up page
+
+[33mcommit 3189a38ed79ba225e6ccaabb42089956087e9bf8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:47:33 2024 +0530
+
+    [UPDT] ATTENDANCE : Change in currency section to view prefix or postfix to the amount
+
+[33mcommit 62ef9055131f0ccce11bb50ce75b5e4e75845aa0[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:47:15 2024 +0530
+
+    [UPDT] BASE : Change in currency section to view prefix or postfix to the amount
+
+[33mcommit ab68634d1bf2fb1612d4b08db0e441fa8a46c0ef[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:46:59 2024 +0530
+
+    [UPDT] EMPLOYEE: Change in currency section to view prefix or postfix to the amount
+
+[33mcommit 9e04372f6a37803b360c77a0da6c0ca6331317f0[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 18 15:44:01 2024 +0530
+
+    [ADD] PAYROLL : Option to add the currency symbol as prefix or postfix from settings page (#339)
+
+[33mcommit 9c7d3cfef51138a9ffa219eb8b92563950594c49[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 16 23:44:34 2024 +0530
+
+    [UPDT] ATTENDANCE: Add message gap
+
+[33mcommit 00a4b7b882bfd11398c4d72c0e91a02d57624b46[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 16 15:48:59 2024 +0530
+
+    [UPDT] Test Database
+
+[33mcommit 76f948e2695121b5b29eda407a26fecff7c4e6f9[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 16 15:19:20 2024 +0530
+
+    [UPDT] BASE: Replace hx-post attributes of field is_enable
+
+[33mcommit cf1c8f4d0f50c0390329283189e04fe13d3aad55[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 16 15:17:35 2024 +0530
+
+    [UPDT] LEAVE: Add try except for django signal update_available
+
+[33mcommit 0980eb1f55f9576200d7c6c3307d1e76d8051a65[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sun Sep 15 23:51:55 2024 +0530
+
+    [UPDT] PMS: Bonus point create button permissions updated
+
+[33mcommit 6e99e389b512730c8bf2c32d849149eb3d9598fa[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:08:38 2024 +0530
+
+    [ADD] LEAVE: Option to download the import template from the same view of import section
+
+[33mcommit 00fa9efdba90c28675f11e26b077cd8082f1c794[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:07:50 2024 +0530
+
+    [ADD] EMPLOYEE: Option to download the import template from the same view of import section
+
+[33mcommit 6783ba141d565671960e1da18d3b28b86dc953b2[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:07:05 2024 +0530
+
+    [ADD] BASE: Option to download the import template from the same view of import section
+
+[33mcommit ddc397558885bfafb99110a9d39544272229d8c6[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:06:24 2024 +0530
+
+    [ADD] ATTENDANCE : Option to download the import template from the same view of import section
+
+[33mcommit 2282fea29b0cf3fe15be0f347ac4f1321831a9fd[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:05:28 2024 +0530
+
+    [UPDT] ASSET : Data action in asset module and individual delete updated to htmx method
+
+[33mcommit 1029ac7f9af989a47ccaf1b2a20101e77773f643[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:04:31 2024 +0530
+
+    [ADD] ASSET: Option to download the import template from the same view for import section
+
+[33mcommit 9007c5e2b89034cac68cd0e08e62f74ff8f8d1b7[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 13 18:02:59 2024 +0530
+
+    [UPDT] PAYROLL: Add data-action attribute for next and previous button in individual view
+
+[33mcommit 2aafde532e8fee96f6cba07425dd5f5e03db5c45[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 12 14:12:48 2024 +0530
+
+    [FIX] PMS: Employee keyresult value error on self objectives tab is fixed
+
+[33mcommit f19edb987a15cf288e00a2bb87867acf1624b1e1[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 12 14:11:50 2024 +0530
+
+    [UPDT] BASE: EmployeeBonuspoint in pms and BonusPoint in employee is connected and functions also updated
+
+[33mcommit da250673d7cf0ac9886d3ffa8cefca84ef47e559[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 12 14:10:53 2024 +0530
+
+    [UPDT] ATTENDANCE: Add next and previous data-action in individual view
+
+[33mcommit 8a1a80843eac29e4189794f4108c75c708d15fde[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 12 14:10:03 2024 +0530
+
+    [UPDT] STATIC: Add trigger click function of delete button if oh-modal--show class exist
+
+[33mcommit 750be958a56d845caac95e70520897cf67335bec[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 12 14:09:05 2024 +0530
+
+    [UPDT] LEAVE: Add next and previous data-action in individual view
+
+[33mcommit 6feacbb9540f182dc5e7f9f76d89de2de5985e11[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 15:05:30 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Bulk select widget design
+
+[33mcommit 1694f85d8fc833f669ba0f3dd913d66e9b1ad486[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 15:04:23 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Temporary style removal from CBV to avoid design conflicts
+
+[33mcommit ccf4abb1f28a3d76639f625e86b2c992d8f19043[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 15:02:16 2024 +0530
+
+    [FIX] ATTENDANCE: Issue with the old migrations for the attendance validator method
+
+[33mcommit bf23d43d1adad8be660deef1bfb2e4a8aee6c14b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 15:01:47 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Temporary style removal from CBV to avoid design conflicts
+
+[33mcommit a58dd81ec005e07d6d4e2d45ef654bc5e0570ea0[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 12:54:26 2024 +0530
+
+    [UPDT] BASE: Individual view of objects added with data-action for next and previous buttons
+
+[33mcommit 46ac82ac8c9b16e73ab68298df4827216055fcca[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 11:40:50 2024 +0530
+
+    [ADD] RECRUITMENT : New feature for survey section to view the survey template and rearrange the questions
+
+[33mcommit 3952a5ac273f85b1c04cf8ee5608678f8b321298[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 11:40:12 2024 +0530
+
+    [UPDT] ATTENDANCE: Select all button showing issue in attendance request tab change
+
+[33mcommit c91bb992737d59a7f15ae58a04822c51b817ffae[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 11:39:45 2024 +0530
+
+    [FIX] ONBOARDING: Fixed send portal trans issue
+
+[33mcommit 240c684f4085caa15ca6ab0037e80dc2f932472a[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 11:39:32 2024 +0530
+
+    [UPDT] HELPDESK: Add data-action=delete for delete option in navbar
+
+[33mcommit 1b0a6f69636454aad29ec6b40061d56518fb4dda[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 11:00:05 2024 +0530
+
+    [UPDT] PAYROLL: Add data-action=delete attribute for delete option in navnbar
+
+[33mcommit f25685bae9dfe727943dcb3f36886eb5f0ecb0b3[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 11 10:59:11 2024 +0530
+
+    [UPDT] LEAVE: Add data-action=delete for delete option in dropdown action button
+
+[33mcommit 796bfed79079062501a3ab1d64a71ca003134e1d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 10 13:52:52 2024 +0530
+
+    [UPDT] HELPDESK: All tickets can view to the employees who has the permissions
+
+[33mcommit 8e9b6b0e198e921479163b12b27d080a972518a8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 10 13:50:54 2024 +0530
+
+    [UPDT] ATTENDANCE: Add data-action=delete for Actions option in navbar
+
+[33mcommit 053ed3c641097a5f782f18d4c1b4d400e5deceb3[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 10 13:50:14 2024 +0530
+
+    [UPDT] PMS: Subbordinates,collegue,manager change according to the employee selected
+
+[33mcommit 8203ba97d4304fc871720d8b41085950872a63f5[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 9 16:19:56 2024 +0530
+
+    [UPDT] BASE: Add data-action attribute from drop down option in delete in nav bar
+
+[33mcommit 347659892ef7f0ad525a25f4021e991a9376b6f9[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 9 16:18:48 2024 +0530
+
+    [UPDT] ATTENDANCE: Replace group_by_queryset function paginator class
+
+[33mcommit 81ba854d107d2c83227a30ca969a072c8c141960[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 9 16:18:07 2024 +0530
+
+    [UPDT] ASSET: Replace static paginator count to dynamic
+
+[33mcommit 4a464728f30fd58ebfc308eef318068a32b9535e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Sep 6 16:49:48 2024 +0530
+
+    [UPDT] BIOMETRIC: Add hx-trigger load on create & update form of biometric device
+
+[33mcommit ab0803b23f9bf5716becca9712f9f0698ab4f901[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 23:30:45 2024 +0530
+
+    [ADD] HELPDESK: Added custom command to create faqs
+
+[33mcommit 21264f59d218eec1d3b467cbc27e038c24e69c73[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 23:30:11 2024 +0530
+
+    [FIX] BIOMETRIC: Improper closing brackets (#319)
+
+[33mcommit e6f26879b39d657dec6cd9b4cae934fc23dd0731[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 23:28:12 2024 +0530
+
+    [RMV] ASSET: assetList.js
+
+[33mcommit b539fceea372640a1d2aa0a8b4514cbd63855e01[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 23:27:26 2024 +0530
+
+    [UPDT] ASSET: Add owner and is_active fields to form exclude attributes
+
+[33mcommit 1a48c55aee3f8fa08601a86c5178f671598aa661[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 23:26:39 2024 +0530
+
+    [FIX] RECRUITMENT: Bypassing survey from application form for recruitment managers and stage managers
+
+[33mcommit b02bb8e24e716e8b1fa035712511932b47a27617[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 17:09:05 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Card status indication
+
+[33mcommit 4b683f2d70de483dc3b2a21f27c261eb9166661c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 17:08:34 2024 +0530
+
+    [FIX] LEAVE: Fixed pagination htmx target error in assigned leaves group by view
+
+[33mcommit 12b85d8f5c9fcda9248749ef7555883eab64d29d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 17:08:10 2024 +0530
+
+    [UPDT] GENERAL: Badge design updates
+
+[33mcommit 6600730f8b03e789e46abe229a7fb75dccb38b1f[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 17:07:03 2024 +0530
+
+    [ADD] HELPDESK: Added custom command to create faqs
+
+[33mcommit a35dc09b3ad77e7b45efecab465cf921e9c2b038[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 17:06:24 2024 +0530
+
+    [FIX] LEAVE: Infinite leave days issue in MySQL databases (#318)
+
+[33mcommit 0e9c8a5b247958a7221bd37bef555c625e7638ec[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 12:48:19 2024 +0530
+
+    [FIX] ATTENDANCE: Late come early out optional feature condition (#267)
+
+[33mcommit 039ed06ffcfb9168b0d3eedd82cecc7972958814[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Sep 5 12:47:38 2024 +0530
+
+    [FIX] HORILLA VIEWS: Bulk update, Export modal and empty page in Generic Group by view
+
+[33mcommit df18e606fc8407c7a3facc913d57007efe65eb81[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:56:04 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Add format:instance on profile dropdown link href
+
+[33mcommit a9f16ba943736a873e682ae9440d54e91457a9df[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:54:59 2024 +0530
+
+    [UPDT] HORILLA VIEWS: if condition queryset inside horilla card structure
+
+[33mcommit f7b3f242c22db1b49ddb6269dab8079498e89d2e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:53:47 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Add ordered ids in Horilla Class Views
+
+[33mcommit d72e5d4b5d5c55e721c4fb797abd6fe681432b89[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:52:11 2024 +0530
+
+    [UPDT] STATIC: Style updation for the question templates
+
+[33mcommit d92e1b6daa9cbc68e5dc864b79898fc2bcd56625[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:51:44 2024 +0530
+
+    [UPDT] RECRUITMENT: Updated design for survey template
+
+[33mcommit bc24265d0b5f973e09372b926c968884c1c42eda[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:51:13 2024 +0530
+
+    [UPDT] BIOMETRIC: Replace print statements with logger messages
+
+[33mcommit e26858e2cb218df0a7525106e83b3a077620f94a[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:50:13 2024 +0530
+
+    [FIX] RECRUITMENT: Fixed recruitment pipeline rating start style issue
+
+[33mcommit d965b474ee21e794d83f74acc2b4b219d147568c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 20:49:54 2024 +0530
+
+    [UPDT] ONBOARDING: Message type in onboarding
+
+[33mcommit cc1e559d4671d447b07620cc22b62ff2945a4df0[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 16:36:36 2024 +0530
+
+    [UPDT] BIOMETRIC: Add live capture mode for cosec biometric device
+
+[33mcommit 4293187d9c4977e682e998fca2480f63cbfcafe1[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 16:35:34 2024 +0530
+
+    [FIX] EMPLOYEE: Employee individual view shift tab approve button not sticky issue
+
+[33mcommit 2542162cb0c514c5db50c34838e5186d6491cbbd[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 16:35:06 2024 +0530
+
+    [FIX] HELPDESK:Different icon for different file extensions(#314), All ticket tab view permission
+
+[33mcommit 864c5b8807b12801638c0643d062ad64cc35486c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Sep 4 16:34:00 2024 +0530
+
+    [FIX] HELPDESK: Ticket view permission updated for create users
+
+[33mcommit 7a1f7dcd2657d5344501a4da4ff29ed804417f33[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:23:00 2024 +0530
+
+    [ADD] ATTENDANCE: Added accept attr in attendance comment file section
+
+[33mcommit 69d8bc44361f71f0be4e8db20b18e2b794307bbc[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:22:08 2024 +0530
+
+    [ADD] PAYROLL: Added accept attr in reimbursement comment file section
+
+[33mcommit 20b2605ed0f9c9da0fbca14b278890b475e4da3f[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:21:26 2024 +0530
+
+    [UPDT] ONBOARDING: Added export bulk status change and bulk delete
+
+[33mcommit 72d73c9289390a0eb94e445db255b0b6b2d47794[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:20:46 2024 +0530
+
+    [UPDT] HELPDESK: My ticket filter updated added created_by
+
+[33mcommit 69484db04239598592417c7ff7ecf698d33fc1f8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:19:39 2024 +0530
+
+    [ADD] BASE: Added accept attr in shift and worktype comment file section
+
+[33mcommit c2aa2ceb03359e876e715d0a0714b72407338944[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:18:01 2024 +0530
+
+    [FIX] PMS: Added validation for question template when answerable employee in meetings room
+
+[33mcommit f4758ba7c1b935a62838a55648b470b93b8bc567[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:16:58 2024 +0530
+
+    [UPDT] LEAVE: Condition to check leave request date format
+
+[33mcommit a28c8b810caae20b8dab6f3c1df9b689882472d5[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:16:25 2024 +0530
+
+    [UPDT] ONBOARDING: Added export bulk status change and bulk delete
+
+[33mcommit edb1faa21434397b931bbea27422f25e69514dd4[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:15:59 2024 +0530
+
+    [FIX] PMS: All feedback tab is updated as Feedbacks to review
+
+[33mcommit d1ffadc7e4e93ee43d3028c8b6978c0e39919462[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 17:14:17 2024 +0530
+
+    [FIX] LEAVE: Fixed leave restriction in fresh db (#312)
+
+[33mcommit f3aa988885f2458c2de537105a22cb33d4767883[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:13:09 2024 +0530
+
+    [UPDT] TRANSLATIONS: Updated translation terms
+
+[33mcommit e29b3b67207a8326af51d1f77d40732e5f2bbefa[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:11:50 2024 +0530
+
+    [ADD] LEAVE: Added accept attr in leave comment file section
+
+[33mcommit 8083e676e33ea8036dbf084cbd5b37fdea335e34[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:10:49 2024 +0530
+
+    [UPDT] HORILLA CRUMBS: Additional urls to sidebar urls list
+
+[33mcommit 2650d56641c1699895eacc8940854e87d31dfb50[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:05:56 2024 +0530
+
+    [FIX] EMPLOYEE: Fixed normal employees cant view contract info
+
+[33mcommit bd81a7c71a9dac02c772f8bb895f0b59eeb9e40d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:05:34 2024 +0530
+
+    [UPDT] LEAVE: Added leave taken to my leave request and profile and individual tabs
+
+[33mcommit e60a99b5f799d1323185b3fc58b362f39591fbcd[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:05:06 2024 +0530
+
+    [FIX] PMS: Fixed feedback answer icon width
+
+[33mcommit acd41fea914e98d31eb1d5e5ec413873ffc6312b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:04:46 2024 +0530
+
+    [UPDT] LEAVE: Updated the maximum length in restricted leave title
+
+[33mcommit 29e2ad90b7114c8f485e4deefd78133ed7347e74[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:04:20 2024 +0530
+
+    [FIX] HELPDESK: Create ticket type is restricted to reporting managers
+
+[33mcommit 8af887f163afa4d583fe7462491739dad52d2507[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Sep 3 14:04:02 2024 +0530
+
+    [UPDT] PAYROLL: Encashment title
+
+[33mcommit 9769fb94081cac3c289a3a3e63dc7abc783fbf8f[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 2 14:31:56 2024 +0530
+
+    [UPDT] PAYROLL: Company label in auto generate payslip
+
+[33mcommit 5662202988e28e153a5f7c6418aaaddd98968e10[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 2 10:08:15 2024 +0530
+
+    [UPDT] BASE: Label update
+
+[33mcommit be880dc390454bc0a3e5f3a74839ac65182bfdb5[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 2 10:07:03 2024 +0530
+
+    [FIX] PAYROLL: Payroll bulk status change status not changing in the list
+
+[33mcommit b5745c7bcaa48012bd76463d3e8984f9cb29a945[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 2 00:13:52 2024 +0530
+
+    [FIX] PMS: Edit title not showing in update form in bonus point form
+
+[33mcommit 94c7739f06af8deffd044c2734b5f1d267949940[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 2 00:13:33 2024 +0530
+
+    [UPDT] ONBOARDING: Added star to required fields in employee creation and bank details portal pages
+
+[33mcommit c60a7cd7805e4d4c27366d3eeebf24b8047eb739[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Sep 2 00:13:05 2024 +0530
+
+    [UPDT] BASE: Added star to required fied in rotating work type and rotating shift
+
+[33mcommit 19dc7433bbb9e41c1d4d4e4e031daa6a2f0ff8c5[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:49:22 2024 +0530
+
+    [UPDT] BASE: Update verbose name
+
+[33mcommit dae6ba8a5f2f10704e3c4c07a7cbf1afddd0ea0b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:48:57 2024 +0530
+
+    [FIX] ASSET : Owner field change and will filled up if it assigned to an employee
+
+[33mcommit b9bb95dd56c05cac44543eb39ca7659b9bc3a6c3[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:26:00 2024 +0530
+
+    [UPDT] PMS: Label for object in objective create form
+
+[33mcommit 689f0ac08b9e8e1f1eb7bdf0189b0ef084218db4[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:25:36 2024 +0530
+
+    [RMV] ASSET: Removed search select from asset view
+
+[33mcommit 6d860807af4389240eec8798f57210c9925f2ea8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:13:11 2024 +0530
+
+    [UPDT] RECRUITMENT: Company field label
+
+[33mcommit bf3e19499594292e60fb332b024e786d744b6a8d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:12:30 2024 +0530
+
+    [UPDT] LEAVE: Attachment accept attr for leave request forms and temporay removal ofsearch in feature
+
+[33mcommit c9ffa9f35a3d050cc2ad4f691478a686b2bd22c8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 16:11:27 2024 +0530
+
+    [UPDT] PAYROLL: Accept attr for attachment in payroll forms
+
+[33mcommit 1c2f45644ece201d40ee38b67ff4e1a3fd20f10c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:27:12 2024 +0530
+
+    [UPDT] LEAVE: Changed the error heading for assigned leave import
+
+[33mcommit 3c4869c4b89f0b203abe5de531598888da45f509[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:26:54 2024 +0530
+
+    [UPDT] BASE: Changed holiday import error headings
+
+[33mcommit a0956b7b3d8311865f7a780e91b8f42801ebb949[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:26:38 2024 +0530
+
+    [UPDT] ATTENDANCE: Changed attendance import error heading
+
+[33mcommit ec6960524a999e4387ce7d4f011b753846a00873[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:26:21 2024 +0530
+
+    [FIX] LEAVE: Available not getting update issue
+
+[33mcommit 65255550a8911d8facd2984e226c4b2530069966[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:25:47 2024 +0530
+
+    [FIX] RECRUITMENT: Fixed skills dynamic creation recruitment form submit issue
+
+[33mcommit 64094dc310b69563469c2396fa8941d0c9635e22[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:25:13 2024 +0530
+
+    [UPDT] BASE: Change the label Audit tag to History tag
+
+[33mcommit 816ca57d1e66e4775033ed852186b5f7f555c1e0[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:24:40 2024 +0530
+
+    [UPDT] ATTENDANCE: Updated the help text for time runner in settings page
+
+[33mcommit 6c9b6cb4c85bc718f9c23f050d04fa709c90f43b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:17:13 2024 +0530
+
+    [FIX] ONBOARDING: Typo errors in onboarding candidate forms
+
+[33mcommit 783fc89dc0f65872d37dbf32e84e4bf73c72d868[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:16:09 2024 +0530
+
+    [UPDT] BASE: Candidate self tracking settings changed to recruitment
+
+[33mcommit f457ed4bba7f9ff6ecdf4f130ca045e65f5f494c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:15:17 2024 +0530
+
+    [FIX] BASE: Company table action button sticky
+
+[33mcommit f0e2bf4000bdcfa789d3715fe6ecfaa934007b69[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:14:52 2024 +0530
+
+    [FIX] RECRUITMENT: Design fix in recruitment card view
+
+[33mcommit 4f7721d67f45e53118ff1b59eb57b72d905e95ba[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:14:22 2024 +0530
+
+    [FIX] PMS: Settings accordion not open issue along with horilla view
+
+[33mcommit 40d00cbf248a589bdf711f416b0f795544628c2d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Sat Aug 31 15:13:02 2024 +0530
+
+    [UPDT] ATTENDANCE: Tab name changed from Validate Attendance to Attendance to Validate
+
+[33mcommit 1c4835af09d5376843596c4536f1c14363de5361[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 16:32:54 2024 +0530
+
+    [FIX] EMPLOYEE: Style fix in bulk update form and view
+
+[33mcommit 1c62b8d3374410c389ef5dff1ddd96e4581bb19c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 14:57:56 2024 +0530
+
+    [UPDT] PMS: Employee bonus point
+
+[33mcommit 1fc2b383eb15380b028f1b4b44e0d009abf25ed5[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 14:55:39 2024 +0530
+
+    [UPDT] ATTENDANCE: Additional functions for model WorkRecords
+
+[33mcommit 3f206a69a92ac5ee5026ed3f6209744bb57869a2[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 14:54:32 2024 +0530
+
+    [UPDT] ATTENDANCE: Rearrange attendance activity template
+
+[33mcommit f7ce0358d087826e7c1aeb76046d34b0ca913057[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 14:52:55 2024 +0530
+
+    [UPDT] HORILLA VIEWS: Permission enabled decorator updates
+
+[33mcommit 61f3ece4cde450bc4b35dc8665df10d1ced6acb2[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 14:52:22 2024 +0530
+
+    [UPDT] ATTENDANCE: Changed shift_id field hx-attributes in html form
+
+[33mcommit c88a8202c2f31193756e048bcead5c126d935c4e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 30 14:51:21 2024 +0530
+
+    [UPDT] PMS: Employee bonus point
+
+[33mcommit 7cee981ddf49f559e1ae2736f39871281554cd0f[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 29 13:22:57 2024 +0530
+
+    [FIX] ONBOARDING: Fixed candidate creating from onboarding as hired candidate
+
+[33mcommit 6f6a19e0ba59821f2acf6ae58c98f4190a3de108[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 29 09:56:10 2024 +0530
+
+    [UPDT] LEAVE: Replace url for get_job_positions function
+
+[33mcommit 997391a2ce1aefc6c71ec2576ec232a0e724d964[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 17:03:22 2024 +0530
+
+    [UPDT] LEAVE: Updated HTMX method for leave forms
+
+[33mcommit 0c3fd2bef8d0d3c51e71808ba409d04a878e6690[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 17:01:16 2024 +0530
+
+    [RMV] Debug line
+
+[33mcommit bddd44ccaf4b434f639128f1cbb6f8b75bcb0e4c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 17:00:06 2024 +0530
+
+    [UPDT] ASSET: Replace asset return request into HTMX method
+
+[33mcommit 7982dcac1082dac8b231648e84d056d4e008552e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 16:59:03 2024 +0530
+
+    [UPDT] BIOMETRIC: Added condition to pass parameters by-pass-finger in set_cosec_users function
+
+[33mcommit 70f81d9305bd31106473d0fb7da879af173b4de3[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 16:56:49 2024 +0530
+
+    [UPDT] HORILLA BREADCRUMBS: Replaced user based breadcrumbs to session based breadcrumbs
+
+[33mcommit c6adbcf5a10686630a3696cf92e5bb8b98b9b5fa[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 12:39:38 2024 +0530
+
+    [UPDT] Test Database
+
+[33mcommit 3eca5bb04ca6f559824818265c02ddbed3e1cfb2[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 12:01:40 2024 +0530
+
+    [ADD] BASE: Horilla generic bulk update method
+
+[33mcommit 78549149ced93a4c377c2fa70a8c7c451a5d2409[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 12:00:57 2024 +0530
+
+    [FIX] EMPLOYEE: Style fix in employee list view action buttons
+
+[33mcommit a614facf0a74464631af1ec020b83fdea5c9cf5e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 12:00:34 2024 +0530
+
+    [UPDT] RECRUITMENT: Optional profile/resume option under recruitment
+
+[33mcommit f6a8a18fe6fc12cc8d40a1cda3ad1762645161ee[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 10:18:04 2024 +0530
+
+    [RMV] LEAVE: Removed available leave updation on update of leave type
+
+[33mcommit 1b09ec4406ed7e2428623598db08669ee4da1e2c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 10:06:34 2024 +0530
+
+    [UPDT] LEAVE: Added No limit for leave types in my leave request and leave tab in profile
+
+[33mcommit 9fe3e53db0b437b6184d0d177f36775c2f7e800e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 10:06:08 2024 +0530
+
+    [UPDT] LEAVE: Added No limit for leave types in my leave request and leave tab in profile
+
+[33mcommit bdee8c1470eee4788513e1607e9dbc607bfdf408[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 10:05:43 2024 +0530
+
+    [FIX] LEAVE: Fixed limit leave always false in leave type update form
+
+[33mcommit fd18cd13676e367668974959b9ca4f49f78e8945[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 28 10:03:36 2024 +0530
+
+    [UPDT] LEAVE: Add leave type with infinite number of days and apply as default to all employees option
+
+[33mcommit 9a610368166a42e2c4c67088711ecae9572b0e67[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:36:33 2024 +0530
+
+    [FIX] ONBOARDING: Typo fix
+
+[33mcommit 4fd4fe6b6bb9cd2013b8b6d63d86d32d41048d5b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:35:53 2024 +0530
+
+    [ADD] RECRUITMENT : Automatic recruitment closing on recruitment end date
+
+[33mcommit 9720826b9b19451ec12949971a0f23617491cf49[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:34:55 2024 +0530
+
+    [ADD] PMS: Employee bonus point feature
+
+[33mcommit 2078776d3655a97ade99f112407578fc6ee375cb[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:32:51 2024 +0530
+
+    [ADD] EMPLOYEE: New feature for employee individual data export from employee view
+
+[33mcommit 1bb45a5f2b21a92a3b0b704f7d798f13bbb18c1c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:32:28 2024 +0530
+
+    [UPDT] PAYROLL: Employee basic salary update with contract update
+
+[33mcommit 5ceeacfdbc72af75ffd01a2295805a2a6d3bda78[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:32:11 2024 +0530
+
+    [UPDT] PAYROLL: Payroll export excel sheet style updation while using map
+
+[33mcommit 807ef268a8ae30e693e5c9c7ac6e1e99fb5bad9a[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 27 17:31:43 2024 +0530
+
+    [UPDT] LEAVE: Replaced restrict leave form jquery with htmx
+
+[33mcommit 649866a92c95cab61bc814e34e31583a4e9c88ca[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Aug 26 12:00:37 2024 +0530
+
+    [UPDT] ATTENDANCE: Replace jquery function for shift field to htmx method in Attendance form
+
+[33mcommit 35fe7cfe937f4de35737bc0759da477ad50fd4be[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Aug 26 11:25:12 2024 +0530
+
+    [UPDT] PMS: Updated user permission for detailed view in feedback
+
+[33mcommit 3b4d65cd041f717474f47785e0c7a3a71c60cfa7[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Fri Aug 23 21:00:31 2024 +0530
+
+    [ADD] ATTENDANCE: Added ip networks to ip restiction
+
+[33mcommit 9c7982f12834431ab4ac42f2f91180c405dcba42[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:43:23 2024 +0530
+
+    [RMV] TEMPLATES: Remove unwanted js function
+
+[33mcommit 8b5895fac8d7bf0ae69cd8d4048a3da72c935e6f[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:40:08 2024 +0530
+
+    [UPDT] PAYROLL: Updated docstrings
+
+[33mcommit aa6f72a6ff7c4ae182f57c3b75808e876277ed62[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:39:42 2024 +0530
+
+    [UPDT] LEAVE: Added htmx for available days message display in leave request
+
+[33mcommit 358a1581f0f00e6e46c656b654abacc00318439b[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:36:01 2024 +0530
+
+    [UPDT] PAYROLL: Added total, paid and balance amount to installment view
+
+[33mcommit e8279272f5f92c4068fd5d0a8522bb10da543d54[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:35:30 2024 +0530
+
+    [UPDT] PAYROLL: Added validations to loan creation
+
+[33mcommit 3cf4a1982b4e17d1e802e1a85cb1aa80bc15c7dd[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:35:12 2024 +0530
+
+    [UPDT] PAYROLL: Added hx request to load export form for contracts
+
+[33mcommit 522372f3df310090412d16a00e936fad97fa9309[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Thu Aug 22 17:34:20 2024 +0530
+
+    [UPDT] LEAVE: Added hx request to load export form for leave request
+
+[33mcommit 1c8d2fa165e72a7935bf03a5696676f82a2087e8[m
+Author: Rajendra Prasad JM <91714049+chlorinexxe@users.noreply.github.com>
+Date:   Thu Aug 22 12:48:35 2024 +0530
+
+    Update requirements.txt (#292)
+    
+    The Following library is used in asset/resources.py
+
+[33mcommit 774672a3d156bcfd49d05eff371896e8dd609efb[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 21 16:55:20 2024 +0530
+
+    [UPDT] Test Database
+
+[33mcommit 4912922f12fc44bd627101f6da0499a9fab03814[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 21 10:16:00 2024 +0530
+
+    [FIX] PAYROLL: Fixed payroll allowance and deductions operator_mapping range issue
+
+[33mcommit 826a505a8315ffe9f4aea3bca9b9e8b779b2c2f8[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 21 10:15:36 2024 +0530
+
+    [UPDT] ATTENDANCE: Updated hour account and late come ealry out records export method
+
+[33mcommit 9f646cadf5ee875e69626ac0d48a4af995e5c0cb[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Wed Aug 21 10:15:07 2024 +0530
+
+    [ADD] PAYROLL: Added payroll report to payslip actions
+
+[33mcommit fa3d858524b809326807a825eb97c37d5797b565[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 20 15:22:14 2024 +0530
+
+    [UPDT] PMS: Replaced object_delete method parameters
+
+[33mcommit 0bbcb32e77d808fc72a689c5bcf70c59138e4122[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 20 15:21:50 2024 +0530
+
+    [UPDT] BASE: Replaced object_delete method parameters
+
+[33mcommit bd6a8d00e06af451643cf7e4ce445c47a7c1775c[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 20 14:55:07 2024 +0530
+
+    [FIX] OFFBOARDING: Bug fixes in employee replacement url
+
+[33mcommit 1dedf35c58683dc6bf79e8eab658f9afb087112e[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Tue Aug 20 14:54:34 2024 +0530
+
+    [UPDT] EMPLOYEE: Updation in employee replacement function
+
+[33mcommit 8491b317695e2fee2465062d2e28dcfadc75fd8f[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Aug 19 17:20:37 2024 +0530
+
+    [UPDT] GENERAL: Updated date_format and time_format variable declaration to global variable declarations and fix import/export issue in attendance
+
+[33mcommit 26e786e18ff3e2c3cb636d88db035abfe8c7349a[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Aug 19 14:57:13 2024 +0530
+
+    [FIX] ATTENDANCE: Fixed work record filtered data import
+
+[33mcommit be3dd934706dc14bf11ff30af5dcf76695577b97[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Aug 19 14:56:46 2024 +0530
+
+    [UPDT] PAYROLL: Added one time settlemet to Loan and advance salary
+
+[33mcommit 23c7375f1d8646f24a5b85b7f36345ab423c318d[m
+Author: Horilla <teamhorilla@gmail.com>
+Date:   Mon Aug 19 09:48:18 2024 +0530
+
+    [UPDT] BASE: Added condition for shift schedule forms
